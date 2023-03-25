@@ -1,0 +1,16 @@
+# Exclude the .ipynb_checkpoints directory, which Jupyter creates
+.ipynb_checkpoints/
+
+# Exclude the .vscode directory, which contains VS Code settings
+.vscode/
+
+# Exclude the .venv directory, which may contain a virtual environment
+.venv/
+
+# Exclude any local data or output files
+*.pickle
+*.pkl
+*.h5
+*.npy
+*.npz
+*.Identifier
